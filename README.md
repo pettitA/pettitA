@@ -1,4 +1,18 @@
-## Hi there 👋
+# About Me
+
+## Name
+Alexandra (Alex) Pettit
+
+## Major:
+Information Technology & Cybersecurity
+
+## Two Future Projects:
+### Project 1
+Description: 
+
+### Project 2
+Description: 
+
 
 <!--
 **pettitA/pettitA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
