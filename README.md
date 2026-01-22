@@ -7,11 +7,11 @@ Alexandra (Alex) Pettit
 Information Technology & Cybersecurity
 
 ## Two Future Projects:
-### Project 1
-Description: 
+### Project 1: Dungeon Crawler Improvment
+Description: I intend to build on a game I programmed for a previous class to make it capable or running at any board size rather than between 5x5 and a 10x10 board.
 
-### Project 2
-Description: 
+### Project 2: Minecraft AI
+Description: The goal is to create an AI model that can generate an ideal terrain for building with specific aesthetic types based on the prompt given.
 
 
 <!--
